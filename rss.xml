@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[drew]]></title>
+        <description><![CDATA[drew]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 14 Oct 2015 22:54:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://cdn.deuscustoms.com/wp-content/uploads/2015/05/TOM8856.jpg">]]></description>
+            <link>undefineda22ebe60-c746-4b60-84f8-758bf7b84c8a/index.html</link>
+            <guid isPermaLink="false">a22ebe60-c746-4b60-84f8-758bf7b84c8a</guid>
+            <pubDate>Wed, 14 Oct 2015 22:54:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
